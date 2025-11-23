@@ -1,0 +1,15 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Soft pastel purple background for the app */
+:root[data-theme='light'] {
+  --bg: #FBF8FF;
+}
+:root[data-theme='dark'] {
+  --bg: #0b0720;
+}
+body {
+  background: var(--bg);
+}
