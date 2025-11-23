@@ -1,9 +1,4 @@
 
-/**
- * Types mapped from backend Java classes (simplified).
- * See the uploaded "Classes Java oficial.docx" for full backend class list. fileciteturn0file0
- */
-
 export interface Carreira {
   idCarreira: number;
   nomeCarreira: string;
