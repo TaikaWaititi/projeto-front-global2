@@ -15,6 +15,9 @@
 - área dos integrantes ligando a Github e Linkedin respectivos perfeitamente
 
 **Links**
-- Vercel:
+- Vercel: https://projeto-front-global2-a666a7sv1-taikawaititis-projects.vercel.app
+- Repositório GitHub: https://github.com/TaikaWaititi/projeto-front-global2.git
+- Link Youtube: 
+
 
 
