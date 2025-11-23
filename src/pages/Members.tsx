@@ -2,8 +2,9 @@
 import React from "react";
 
 const members = [
-  { name: "Aluno A", rm: "RM0001", turma: "Turma X", github: "#", linkedin: "#" },
-  { name: "Aluno B", rm: "RM0002", turma: "Turma X", github: "#", linkedin: "#" },
+  { name: "Bruno Martins Bettio", rm: "RM564939", turma: "Turma 1TDSA", github: "https://github.com/TaikaWaititi", linkedin: "https://www.linkedin.com/in/bruno-martins-bettio/" },
+  { name: "Júlia Tiziotto Buttler", rm: "RM564975", turma: "Turma 1TDSA", github: "https://github.com/JuliaTButtler", linkedin: "https://br.linkedin.com/in/shoukita-undefined-155a21367" },
+   { name: "Mariana Xavier Quisper", rm: "RM566357", turma: "Turma 1TDSA", github: "https://github.com/Marixavq", linkedin: "https://www.linkedin.com/in/mariana-xavier-quispe-095b81305" },
 ];
 
 export default function Members() {
