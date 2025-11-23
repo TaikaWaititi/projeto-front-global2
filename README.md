@@ -17,7 +17,8 @@
 **Links**
 - Vercel: https://projeto-front-global2-a666a7sv1-taikawaititis-projects.vercel.app
 - Repositório GitHub: https://github.com/TaikaWaititi/projeto-front-global2.git
-- Link Youtube: 
+- Link Youtube: https://youtu.be/24mDH0GPOcQ
+
 
 
 
