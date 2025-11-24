@@ -1,6 +1,6 @@
 
 
-const API_BASE = import.meta.env.VITE_API_BASE || "https://api.example.com";
+const API_BASE = import.meta.env.VITE_API_BASE || "https://api-java-gs.onrender.com/";
 
 async function request(path: string, opts: RequestInit = {}) {
   const res = await fetch(`${API_BASE}${path}`, {
